@@ -1,0 +1,25 @@
+{
+  "name": "study_frontend_normal",
+  "version": "1.0.0",
+  "description": "study_frontend_normal",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okatom33/study_frontend_normal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okatom33/study_frontend_normal/issues"
+  },
+  "homepage": "https://github.com/okatom33/study_frontend_normal#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
